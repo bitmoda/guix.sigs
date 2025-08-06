@@ -2,6 +2,8 @@ a54e53c015df9efa6b80acfee1e9fc75e1e9b88bfcb7e3270d76dca32ca1869e  bitcoin-29.1.k
 7ee5c205f6d349f8171dfcbcf3ce72b81064e3b66348e67b9e798c107034d89a  bitcoin-29.1.knots20250805rc1-aarch64-linux-gnu.tar.gz
 5b5b6537acb7b6b3e4e75aefd9513a58ef16cf7b82ef653b07475dd281f9941b  bitcoin-29.1.knots20250805rc1-arm-linux-gnueabihf-debug.tar.gz
 446aa5ddeecd06999224ec992c8b303a93bb9dae0fdfe2eb308c1a88f1cf3220  bitcoin-29.1.knots20250805rc1-arm-linux-gnueabihf.tar.gz
+e707f3e6437bb2ba27e5a50991449aeaf4ee74f4740b7b4bceefca4ac3a8cee9  bitcoin-29.1.knots20250805rc1-arm64-apple-darwin.tar.gz
+81107f2a589d990ed5d8c7c430115f91f538a47af3fc52a9bf88aead51b73f60  bitcoin-29.1.knots20250805rc1-arm64-apple-darwin.zip
 50e319bf6f1924fc0a6d3997e3fe065289c0bd8f095fa291e4c2d0b1ceb17a8c  bitcoin-29.1.knots20250805rc1-arm64-apple-darwin-codesigning.tar.gz
 e65760657d13c56d379d6bd0c1bc4bfcaa6ec8bf1aad31c425090f017b2f6ecc  bitcoin-29.1.knots20250805rc1-arm64-apple-darwin-unsigned.tar.gz
 7cfc42ed7f67a79b1a1a32968a589fde4485dcc5e0e39520dbe764b9fcf959ca  bitcoin-29.1.knots20250805rc1-arm64-apple-darwin-unsigned.zip
